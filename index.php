@@ -1,0 +1,5 @@
+<?php
+
+echo "gwapo ako"
+
+?>
